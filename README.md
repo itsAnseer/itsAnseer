@@ -21,12 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
+## My Skill Set 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -39,15 +34,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
 
 
 
-</td></tr></table>  
+
 
 <br/>  
 
